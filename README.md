@@ -28,7 +28,7 @@ Rather than waiting for a formal analytics title, I leaned into the work itself 
 
 **Languages & Tools**
 
-- SQL (Microsoft SQL Server)
+- SQL (PostgreSQL)
 - Excel
 - Power BI
 - Python
