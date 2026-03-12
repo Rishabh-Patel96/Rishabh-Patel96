@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Rishabh Patel
+Data Analytics | SQL | Python | Power BI | Excel | Business Intelligence
 
 I’m a data analytics professional focused on using data to improve operational and business performance.
 
