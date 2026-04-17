@@ -19,6 +19,8 @@ Today, I work primarily with SQL, Power BI, Excel, and Python to analyze invento
 
 I’m especially interested in opportunities across Data Analytics, Supply Chain Analytics, Reporting, and Business Intelligence.
 
+https://drive.google.com/file/d/1l8i4alx16I3CSHe4zWn1mSKYGKYrLuvk/view?usp=drive_link
+
 If you're looking for someone who understands both operations and analytics — let's connect.
 
 📧 [rishabhp007@zohomail.in](mailto:rishabhp007@zohomail.in)
