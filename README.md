@@ -1,4 +1,4 @@
-Hi, I'm Rishabh Patel 👋
+# Hi, I'm Rishabh Patel 👋
 
 The path to where I am now wasn't exactly linear.
 
@@ -8,14 +8,14 @@ Over the last 3+ years in a 3PL environment, I have worked extensively with inve
 
 Today, I work primarily with SQL, Power BI, Excel, and Python to analyze inventory, fulfillment, customer, and sales data. I enjoy building dashboards, creating reporting solutions, identifying trends, and turning operational problems into measurable business insights.
 
-Technical Skills
+## Technical Skills
 
-• SQL (PostgreSQL, BigQuery)
-• Power BI Desktop & Service
-• Microsoft Excel
-• Python (Pandas & NumPy)
-• ETL, Data Modeling, Data Warehousing
-• KPI Reporting, Dashboarding, Business Analysis
+* SQL (PostgreSQL, BigQuery)
+* Power BI Desktop & Service
+* Microsoft Excel
+* Python (Pandas & NumPy)
+* ETL, Data Modeling, Data Warehousing
+* KPI Reporting, Dashboarding, Business Analysis
 
 I’m especially interested in opportunities across Data Analytics, Supply Chain Analytics, Reporting, and Business Intelligence.
 
