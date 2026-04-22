@@ -10,13 +10,7 @@ Today, I work primarily with SQL, Power BI, Excel, and Python to analyze invento
 
 ## Resume
 
-<p align="center">
-  <img src="./assets/resume/Rishabh_Patel_Resume.png" width="700">
-</p>
 
-<p align="center">
-  <a href="./assets/resume/Rishabh_Patel_Resume.pdf">View Resume</a>
-</p>
 
 ## Technical Skills
 
@@ -31,6 +25,8 @@ Today, I work primarily with SQL, Power BI, Excel, and Python to analyze invento
 
 * Enterprise Sales Data Warehouse and Analytics Project - https://github.com/Rishabh-Patel96/Enterprise-Sales-Data-Warehouse-and-Analytics-Project
 * Regional Sales Customer Performance Analytics - https://github.com/Rishabh-Patel96/Regional-Sales-Customer-Performance-Analytics
+
+
 
 I’m especially interested in opportunities across Data Analytics, Supply Chain Analytics, Reporting, and Business Intelligence.
 
