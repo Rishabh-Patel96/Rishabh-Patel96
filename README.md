@@ -10,7 +10,13 @@ Today, I work primarily with SQL, Power BI, Excel, and Python to analyze invento
 
 ## Resume
 
+<p align="center">
+  <img src="./my_resume/Rishabh_Patel_Resume.png" width="700">
+</p>
 
+<p align="center">
+  <a href="./my_resume/Rishabh_Patel_Resume.pdf">View Resume</a>
+</p>
 
 ## Technical Skills
 
