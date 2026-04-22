@@ -28,6 +28,8 @@ Today, I work primarily with SQL, Power BI, Excel, and Python to analyze invento
 
 
 
+
+
 I’m especially interested in opportunities across Data Analytics, Supply Chain Analytics, Reporting, and Business Intelligence.
 
 
