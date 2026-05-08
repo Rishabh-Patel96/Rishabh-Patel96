@@ -20,12 +20,13 @@ Today, I work primarily with SQL, Power BI, Excel, and Python to analyze invento
 
 ## Technical Skills
 
-* SQL (PostgreSQL, BigQuery)
+* SQL (PostgreSQL)
 * Power BI Desktop & Service
 * Microsoft Excel
 * Python (Pandas & NumPy)
 * ETL, Data Modeling, Data Warehousing
 * KPI Reporting, Dashboarding, Business Analysis
+* Cloud: Amazon Web Services (AWS)
 
 ## Featured Projects
 
