@@ -40,4 +40,4 @@ I’m especially interested in opportunities across Data Analytics, Supply Chain
 
 If you're looking for someone who understands both operations and analytics — let's connect.
 
-📧 [rishabhp007@zohomail.in](mailto:rishabhp007@zohomail.in)
+📧 [patelrishabh217@zohomail.in](mailto:rishabhp007@zohomail.in)
